@@ -1,0 +1,10 @@
+chromedriver.exe
+*.csv
+*.json
+*.xls
+*.xlsx
+*.html
+*.pdf
+Markdown
+*.Rmd
+*.pdf
